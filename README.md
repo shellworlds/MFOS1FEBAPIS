@@ -1,4 +1,4 @@
-# MFOS1FEBAPIS: Quantum-Enabled MOF+RSOFC Type II Civilization Framework
+# MFOS1FEBAPIS: Quantum-Enabled MOF+RSOFC Framework
 
 ## Project ID: MFOS1FEBAPIS
 ## Lead Developer: shellworlds
